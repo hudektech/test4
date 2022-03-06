@@ -1,0 +1,5 @@
+water
+beer
+wine
+cocktails
+smoothies
